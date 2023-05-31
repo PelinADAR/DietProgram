@@ -1,0 +1,166 @@
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\MSİ\Source\Repos\Fitology\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\hakan\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\Emin\Desktop\Fitology\Fitology\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\bin\Debug\net6.0\01-Entity.deps.json
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\bin\Debug\net6.0\01-Entity.runtimeconfig.json
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\bin\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\refint\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\01-Entity.genruntimeconfig.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\01-Entity\obj\Debug\net6.0\ref\01-Entity.dll

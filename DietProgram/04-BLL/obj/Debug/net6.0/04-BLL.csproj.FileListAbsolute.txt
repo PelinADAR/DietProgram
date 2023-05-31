@@ -1,0 +1,153 @@
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.AssemblyReference.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfoInputs.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfo.cs
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.deps.json
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.pdb
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.pdb
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CopyComplete
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\refint\04-BLL.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.pdb
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\ref\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.deps.json
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CopyComplete
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\refint\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\ref\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.deps.json
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CopyComplete
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\refint\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\ref\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CopyComplete
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\refint\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\ref\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CopyComplete
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\refint\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\04-BLL\obj\Debug\net6.0\ref\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\bin\Debug\net6.0\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\bin\Debug\net6.0\02-DAL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CopyComplete
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\obj\Debug\net6.0\refint\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\obj\Debug\net6.0\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\04-BLL\obj\Debug\net6.0\ref\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\bin\Debug\net6.0\04-BLL.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\bin\Debug\net6.0\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\bin\Debug\net6.0\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\bin\Debug\net6.0\02-DAL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\bin\Debug\net6.0\02-DAL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\obj\Debug\net6.0\04-BLL.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\obj\Debug\net6.0\04-BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CopyComplete
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\obj\Debug\net6.0\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\obj\Debug\net6.0\refint\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\obj\Debug\net6.0\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\04-BLL\obj\Debug\net6.0\ref\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\04-BLL.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\02-DAL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\02-DAL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CopyComplete
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\refint\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\ref\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\04-BLL.deps.json
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\04-BLL.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\02-DAL.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\02-DAL.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\bin\Debug\net6.0\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.csproj.CopyComplete
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\refint\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\04-BLL.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\04-BLL\obj\Debug\net6.0\ref\04-BLL.dll

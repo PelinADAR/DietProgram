@@ -1,0 +1,534 @@
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Form1.resources
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\hakan\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Form1.resources
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\Emin\Desktop\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Login2.resources
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Fitology.resources
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Properties.Resources.resources
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.MainMenu3.resources
+C:\Users\MSİ\Downloads\Fitology (1)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.SignUp4.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Login2.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Fitology.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.MainMenu3.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Meal5.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Properties.Resources.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.SignUp4.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\02-DAL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\04-BLL.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\02-DAL.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CopyComplete
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (1)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.UserMealReports.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\02-DAL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\04-BLL.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\02-DAL.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Login2.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Fitology.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.MainMenu3.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Meal5.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Properties.Resources.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.SignUp4.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.UserMealReports.resources
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CopyComplete
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\hakan\Desktop\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Login2.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Main1.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.MainMenu3.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Meal5.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Properties.Resources.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.SignUp4.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.UserMealReports.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\02-DAL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\02-DAL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CopyComplete
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology (24.01) (son hal)\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\02-DAL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\bin\Debug\net6.0-windows\02-DAL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Login2.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.MainMenu3.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Meal5.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Properties.Resources.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.SignUp4.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.UserMealReports.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CopyComplete
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_24012022\Fitology (24.01)\Fitology\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Main1.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\EntityFrameworkCore.EncryptColumn.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\02-DAL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\bin\Debug\net6.0-windows\02-DAL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Login2.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Main1.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.MainMenu3.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Meal5.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.Properties.Resources.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.SignUp4.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\_03_UI.UserMealReports.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CopyComplete
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\EntityFrameworkCore.EncryptColumn.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\02-DAL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\bin\Debug\net6.0-windows\02-DAL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\_03_UI.Login2.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\_03_UI.Main1.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\_03_UI.MainMenu3.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\_03_UI.Meal5.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\_03_UI.Properties.Resources.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\_03_UI.SignUp4.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CopyComplete
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\_03_UI.Info.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022\03-UI\obj\Debug\net6.0-windows\_03_UI.UserMealReports6.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.Info.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.Login2.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.Main1.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.MainMenu3.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.Meal5.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.Properties.Resources.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.SignUp4.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.UserMealReports6.resources
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\EntityFrameworkCore.EncryptColumn.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\01-Entity.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\02-DAL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\04-BLL.dll
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\04-BLL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\01-Entity.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\02-DAL.pdb
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CopyComplete
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\Açelya&Caner\Desktop\Fitology (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\03-UI.exe
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\03-UI.deps.json
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\03-UI.runtimeconfig.json
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\03-UI.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\03-UI.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\EntityFrameworkCore.EncryptColumn.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\01-Entity.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\02-DAL.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\04-BLL.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\04-BLL.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\01-Entity.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\bin\Debug\net6.0-windows\02-DAL.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.AssemblyReference.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.Info.resources
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.Login2.resources
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.Main1.resources
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.MainMenu3.resources
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.Meal5.resources
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.Properties.Resources.resources
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.SignUp4.resources
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\_03_UI.UserMealReports6.resources
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.GenerateResource.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfoInputs.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.AssemblyInfo.cs
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.csproj.CopyComplete
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\refint\03-UI.dll
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.pdb
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\03-UI.genruntimeconfig.cache
+C:\Users\hakan\Desktop\Fitology_26012022_Final (1)\Fitology_26012022_Final\03-UI\obj\Debug\net6.0-windows\ref\03-UI.dll
